@@ -1,4 +1,4 @@
-<h1 align="center"> Proyecto cONversor de Monedas </h1>
+<h1 align="center"> Proyecto Conversor de Monedas </h1>
 
 <h2>Descripcion del proyecto</h2>
 <p>Esta aplicacion realiza un cambio de divisas utilizando la API exhange rate: <a>https://www.exchangerate-api.com/</a> </p>
